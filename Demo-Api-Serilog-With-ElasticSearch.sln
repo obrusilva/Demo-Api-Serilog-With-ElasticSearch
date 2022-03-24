@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoLog.BLL", "DemoLog.BLL\DemoLog.BLL.csproj", "{23697144-8919-40D9-BEE4-2EAA6FD89603}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoLog.API", "DemoLog.API\DemoLog.API.csproj", "{5AC97A0E-00B1-4BB7-B8AA-7EA4836D40ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23697144-8919-40D9-BEE4-2EAA6FD89603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23697144-8919-40D9-BEE4-2EAA6FD89603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23697144-8919-40D9-BEE4-2EAA6FD89603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23697144-8919-40D9-BEE4-2EAA6FD89603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC97A0E-00B1-4BB7-B8AA-7EA4836D40ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC97A0E-00B1-4BB7-B8AA-7EA4836D40ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC97A0E-00B1-4BB7-B8AA-7EA4836D40ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC97A0E-00B1-4BB7-B8AA-7EA4836D40ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D2F74E-0321-48FD-B836-889F01F8F905}
+	EndGlobalSection
+EndGlobal
